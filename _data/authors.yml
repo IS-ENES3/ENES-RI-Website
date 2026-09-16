@@ -1,0 +1,12 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+sm-and-vp:
+  name: "Sophie Morellon and Valeriu Predoi"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: https://github.com/IS-ENES3
+  email:
+  twitter: "@ISENES_RI"
