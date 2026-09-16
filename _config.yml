@@ -21,7 +21,7 @@ credits: '<p><img src="https://raw.githubusercontent.com/ENES-RI3/ENES-RI-Websit
 
 # Main author of the website
 # See > authors.yml
-author: 'Sophie Morellon and Valeriu Predoi'
+author: 'Anna Peregon, Sara Carbonell and Valeriu Predoi'
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://enes-ri.github.io/ENES-RI-Website/images/'
+urlimg: 'https://is-enes3.github.io/ENES-RI-Website/images/'
 
 
 # This plops a logo on the front banner, unwanted and ugly
