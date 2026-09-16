@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "IS-ENES3 Project Website"
+title: "ENES-RI Project Website"
 # subheadline: "All you need to know about us."
 # teaser: "All you need to know about us."
 header:
@@ -23,4 +23,4 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 ---
 
-This is the website of the IS-ENES3 project. Please see our [contact](https://is-enes3.github.io/IS-ENES-Website/contact/) page for more details. and if you have any questions about the project. Enjoy browsing!
+This is the website of the ENES-RI project. Please see our [contact](https://is-enes3.github.io/IS-ENES-Website/contact/) page for more details. and if you have any questions about the project. Enjoy browsing!
