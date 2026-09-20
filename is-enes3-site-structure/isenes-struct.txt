@@ -1,0 +1,93 @@
+IS-ENES
+│
+├── Home
+│   └── Welcome / latest content
+│
+├── About IS-ENES
+│   ├── About IS-ENES
+│   ├── Description of Work
+│   ├── Partners
+│   ├── Work Packages
+│   ├── IS-ENES Phase 1
+│   └── IS-ENES Phase 2
+│
+├── Events & News
+│   ├── News
+│   ├── Workshops
+│   ├── Training
+│   └── Newsletter
+│
+├── Services on Models & Tools
+│   ├── European Earth System Models
+│   ├── NEMO / Ocean Modelling
+│   ├── Model Components & Tools
+│   ├── ESMValTool / Model Evaluation
+│   └── Coupling / Workflows / Related Tools
+│
+├── Services on Data & Metadata
+│   ├── ESGF Data
+│   │   ├── European ESGF Data Portals
+│   │   ├── DKRZ
+│   │   ├── CEDA
+│   │   ├── IPSL
+│   │   ├── NSC-LIU
+│   │   └── Long-term Archive / WDCC
+│   │
+│   ├── How to Provide Data?
+│   │   ├── Data Ingestion
+│   │   ├── Data Quality
+│   │   ├── Data Citation
+│   │   ├── CMIP Data Quality
+│   │   └── CORDEX Data Citation
+│   │
+│   └── Data & Metadata Services / Documentation
+│
+├── Dissemination
+│   ├── Presentations & Posters
+│   │   ├── IS-ENES3 Workshops
+│   │   ├── AGU 2019
+│   │   ├── AGU 2020
+│   │   ├── AGU 2021
+│   │   ├── AGU 2022
+│   │   ├── EGU 2019
+│   │   ├── EGU 2020
+│   │   ├── EGU 2021
+│   │   ├── EGU 2022
+│   │   ├── EMS 2021
+│   │   ├── EOSC-Hub Week 2020
+│   │   ├── e-Science International Conference 2019
+│   │   ├── e-Science International Conference 2021
+│   │   ├── EGI Conference
+│   │   └── Other
+│   │
+│   ├── Lectures, Tutorials & Webinars
+│   │   ├── CORDEX and CMIP
+│   │   ├── Code Coupling
+│   │   ├── Introduction to ESMValTool
+│   │   ├── International Climate Change Science Cooperation
+│   │   ├── Introduction to Cylc
+│   │   ├── Sea Ice Modelling (SI3)
+│   │   ├── ECAS Training
+│   │   ├── Bias Adjustment
+│   │   ├── Compute & Analytics
+│   │   ├── Coupling Workshops
+│   │   ├── ML-AI Workshop
+│   │   ├── HPC Workshop
+│   │   ├── Climate Impact School
+│   │   ├── Data Science Summer School
+│   │   └── ES-DOC
+│   │
+│   └── Workshops
+│
+└── Archive
+    ├── IS-ENES Phase 1 (2009–2013)
+    ├── IS-ENES Phase 2 (2013–2017)
+    └── Historical / Project Archive Material
+
+
+SITE-WIDE / FOOTER
+├── Contact
+├── Subscribe to Newsletter
+├── Privacy Policy
+├── Credits
+└── Social Links
